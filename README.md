@@ -1,7 +1,23 @@
 # GhostTCP-SUTO-CONF
 ## GhostTCP配置
 
-配置好的版本在**Releases**中!
+配置好打包的版本在**Releases**中!
+
+---
+
+运行`tcpioneer.exe`启动程序
+
+---
+
+运行`install_service.bat`安装服务
+
+运行`remove_service.bat`卸载服务
+
+---
+
+运行`start_service.bat`启动服务
+
+运行`stop_service.bat`停止服务服务
 
 原项目地址
 
