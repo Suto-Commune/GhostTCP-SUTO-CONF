@@ -1,5 +1,7 @@
 # GhostTCP-SUTO-CONF
-## GhostTCP配置发布
+## GhostTCP配置
+
+配置好的版本在**Releases**中!
 
 原项目地址
 
