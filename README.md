@@ -21,7 +21,9 @@
 
 运行`stop_service.bat`停止服务服务
 
-原项目地址
+---
+
+# 原项目地址
 
 https://github.com/macronut/ghostcp
 
