@@ -3,6 +3,8 @@
 
 配置好打包的版本在**Releases**中!
 
+## 如何使用?
+
 ---
 
 运行`tcpioneer.exe`启动程序
@@ -25,3 +27,5 @@ https://github.com/macronut/ghostcp
 
 ##
 注:部分配置参照H-萌娘前管理员写的配置来编写
+
+需要的网站请开issue
