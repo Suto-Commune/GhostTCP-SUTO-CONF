@@ -8,6 +8,7 @@ PIXIV
 YouTube
 Web Archive
 EHentai
+Discord
 Telegram(beta)
 ```
 
