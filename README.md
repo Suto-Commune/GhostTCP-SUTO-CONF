@@ -1,4 +1,16 @@
 # GhostTCP-SUTO-CONF
+##支持网站
+```
+GitHub
+Google
+WIKIpedia
+PIXIV
+YouTube
+Web Archive
+EHentai
+Telegram(beta)
+```
+
 ## GhostTCP配置
 
 配置好打包的版本在**Releases**中!
