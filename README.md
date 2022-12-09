@@ -1,4 +1,9 @@
 # GhostTCP-SUTO-CONF
+
+## 本项目已部署于Website
+
+https://ghost.fucktx.eu.org/default.conf
+
 ## 支持网站
 ```
 GitHub
