@@ -1,5 +1,5 @@
 # GhostTCP-SUTO-CONF
-##支持网站
+## 支持网站
 ```
 GitHub
 Google
