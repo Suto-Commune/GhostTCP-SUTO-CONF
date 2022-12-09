@@ -13,9 +13,14 @@ Telegram(beta)
 
 ## GhostTCP配置
 
-配置好打包的版本在**Releases**中!
+配置文件在**Releases**中!
 
 ## 如何使用?
+---
+从[GhostTCP原项目](https://github.com/macronut/ghostcp)的**Releases**中下载客户端，
+
+
+从**本项目**的**Releases**中下载**Source code**并替换至其中。
 
 ---
 
