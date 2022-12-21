@@ -1,8 +1,16 @@
 # GhostTCP-SUTO-CONF
 
-## 本项目已部署于Website
+## 本项目已部署于网页
+
+配置地址:
 
 https://ghost.fucktx.eu.org/default.conf
+
+---
+
+`releases.zip`下载地址:
+
+https://ghost.fucktx.eu.org/releases.zip
 
 ## 支持网站
 ```
@@ -15,6 +23,9 @@ Web Archive
 EHentai
 Discord
 Telegram(beta)
+Facebook(beta)
+Twitter(beta)
+Chrome翻译修复
 ```
 
 ## GhostTCP配置
@@ -23,14 +34,15 @@ Telegram(beta)
 
 ## 如何使用?
 ---
-从[GhostTCP原项目](https://github.com/macronut/ghostcp)的**Releases**中下载客户端，
+
+下载本项目根目录中的`releases.zip`
 
 
-从**本项目**的**Releases**中下载**Source code**并替换至其中。
+或通过访问 https://ghost.fucktx.eu.org/releases.zip 下载
 
 ---
 
-运行`tcpioneer.exe`启动程序
+运行`ghostcp.exe`启动程序
 
 ---
 
