@@ -1,0 +1,1 @@
+ghostcp.exe -stop
