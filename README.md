@@ -58,6 +58,17 @@ Chrome翻译修复
 
 ---
 
+## 目录说明
+```
+main:
+├─backup #前管理员配置的备份
+├─ghosttcp #一键编译目录
+│  └─needfile #依赖文件
+└─iptest #辅助测试工具
+```
+
+---
+
 # 原项目地址
 
 https://github.com/macronut/ghostcp
