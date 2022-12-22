@@ -1,5 +1,5 @@
 # GhostTCP-SUTO-CONF
-
+Suto配置版Ghostcp客户端
 ## 本项目已部署于网页
 
 配置地址:
