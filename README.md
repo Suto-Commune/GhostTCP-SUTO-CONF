@@ -22,7 +22,7 @@ YouTube
 Web Archive
 EHentai
 Discord
-Telegram(beta)
+Telegram web(beta)
 Facebook(beta)
 Twitter(beta)
 Chrome翻译修复
