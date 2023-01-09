@@ -1,5 +1,5 @@
 # GhostTCP-SUTO-CONF
-
+Suto配置版Ghostcp客户端
 ## 本项目已部署于网页
 
 配置地址:
@@ -22,7 +22,7 @@ YouTube
 Web Archive
 EHentai
 Discord
-Telegram(beta)
+Telegram web(beta)
 Facebook(beta)
 Twitter(beta)
 Chrome翻译修复
